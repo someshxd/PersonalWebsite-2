@@ -1,0 +1,76 @@
+.contact {
+  width: auto;
+  height: auto;
+  margin-top: 90px;
+  margin-bottom: 30px;
+}
+
+.c-title {
+  text-align: center;
+  color: rgb(6, 132, 216);
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+.mail {
+  background: linear-gradient(to right, rgb(235, 131, 78), rgb(238, 70, 88));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.mail:hover {
+  background: white;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.c-desc {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 30px;
+  color: #9b9898;
+}
+
+.c-add {
+  font-size: 35px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.c-add:hover {
+  color: rgb(6, 132, 216);
+}
+
+@media (max-width: 768px) {
+  .c-add {
+    font-size: 20px;
+  }
+  .c-desc {
+    font-size: 25px;
+  }
+  .contact {
+    margin-top: -60px;
+    margin-bottom: -10px;
+  }
+}
+
+.hr {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 50%;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0),
+    rgba(119, 116, 116, 0.75),
+    rgba(255, 255, 255, 0)
+  );
+}
