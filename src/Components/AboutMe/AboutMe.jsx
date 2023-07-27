@@ -16,28 +16,27 @@ export default function AboutMe() {
               <br />
 
               <span className="a-desc">
-                A dedicated Full-Stack Web Developer based in India 📍
+                Hello there! 👋 I'm Somesh Verma, a dedicated and enthusiastic
+                Full Stack Web Developer currently pursuing my 3rd year of
+                studies in Computer Science.
               </span>
               <br />
               <br />
               <span>
-                A MERN stack developer is proficient in building web
-                applications using cutting-edge technologies: MongoDB,
-                Express.js, React.js, and Node.js. They excel in both front-end
-                and back-end development, creating dynamic, scalable, and
-                user-friendly applications. Their skills in database management,
-                RESTful API development, and version control make them adept at
-                delivering high-quality, modern solutions for web development
-                projects.
-                <br /> I have experience developing responsive, scalable, and
-                maintainable web applications that meet business requirements
-                and user needs.
+                My tech stack includes a wide array of tools and technologies,
+                encompassing JavaScript, React, Node.js, Express.js, MongoDB,
+                HTML, CSS, and more. I am always eager to explore new frameworks
+                and languages to ensure my solutions are robust and efficient.
+                <br /> Throughout my academic journey, I have had the
+                opportunity to make some real life projects for local
+                businessman and couple of freelance projects as well, which have
+                honed my teamwork, problem-solving, and communication skills.
                 <br />
-                In addition to technical skills, I have excellent communication
-                and collaboration abilities that allow me to work effectively
-                with team members, stakeholders, and clients. My attention to
-                detail, problem-solving skills, and commitment to quality ensure
-                that I deliver solutions that meet or exceed expectations.
+                As I approach the completion of my Computer Science degree, I am
+                excited to explore new career opportunities in the realm of web
+                development. If you're looking for a passionate and driven Full
+                Stack Web Developer to join your team or collaborate on exciting
+                projects, feel free to reach out. I'm always up for a chat!
               </span>
             </p>
           </div>
