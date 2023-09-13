@@ -22,9 +22,15 @@ export default function MIdSection() {
           </div>
           <div className="contact-here">
             <button className="ch-button">
-              <a href="#contact">CONTACT HERE</a>
+              <a href="https://drive.google.com/file/d/1zN2g_Ctq8QKU01dz6FsYxBNEd3-HO_v0/view?usp=sharing">
+                RESUME
+              </a>
+            </button>
+            <button className="ch-button">
+              <a href="#portfolio">PROJECTS</a>
             </button>
           </div>
+
           <div className="p-img">
             <img className="profile" src="images/laptop.png" alt="my-profile" />
           </div>
